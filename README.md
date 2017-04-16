@@ -20,3 +20,8 @@ text2audio 안녕하세요 -l ko-KR
 ```
 text2audio Hello there -l en
 ```
+
+### Show usage help
+```
+text2audio -h
+```
