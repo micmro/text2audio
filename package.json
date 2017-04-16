@@ -1,17 +1,19 @@
 {
   "name": "text2audio",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Little helper tool to converts a word or sentence to an mp3 file via Google Translate (check their licence if they allow your use of their API).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
-    "node" : ">=4.0.0"
+    "node": ">=4.0.0"
   },
   "author": "Michael Mrowetz",
   "license": "MIT",
   "dependencies": {
+    "command-line-args": "^4.0.2",
+    "command-line-usage": "^4.0.0",
     "request": "^2.81.0",
     "sanitize-filename": "^1.6.1"
   }
