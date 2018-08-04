@@ -1,6 +1,6 @@
 # text2audio
 
-Little helper tool to convert a word or sentence to an mp3 file via Google Translate (check their licence if they allow your use of their API).
+Little CLI tool to convert a word or sentence to an mp3 file, using Google Translate (check their licence if they allow your use of their API).
 
 ## Install
 
